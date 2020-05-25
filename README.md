@@ -1,5 +1,5 @@
 # Misskey Elki Theme
-Theme for misskey based on [Nord theme color](https://www.nordtheme.com/#palettes-modularity).
+Theme for misskey
 
 # Use
 
