@@ -40,4 +40,4 @@ Copy this code on misskey theme editor :
 
 # Screenshot
 
-![](2020-05-25 23-20-06 1-web.png)
+![screenshot](2020-05-25 23-20-06 1-web.png)
