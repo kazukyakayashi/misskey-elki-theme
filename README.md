@@ -32,7 +32,7 @@ Copy this code on misskey theme editor :
 	renote: '#d08770',
 	pageBg: '@bg',
 	badge: '#917781',
-	divider: 'rgba(17, 17, 17, 0.7)',
+	divider: 'rgba(37, 31, 33, 0.7)',
 	driveFolderBg: '@panel',
 	},
 }
