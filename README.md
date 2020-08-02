@@ -21,6 +21,7 @@ Copy this code on misskey theme editor :
 	fg: '#d3d3d3',
 	fgHighlighted: '@link',
 	panel: '#382c2f',
+	navBg: '#382c2f',
 	navFg: '@fg',
 	navHoverFg: '@accent',
 	navActive: '@accent',
